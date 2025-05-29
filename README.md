@@ -36,11 +36,3 @@ I'm currently developing myself as a full-stack JavaScript developer, always aim
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-teixeira-eng-dev/)
 - 📧 gustavoteixeirag2@gmail.com
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Kze1dkxCzKHKxK0v8L/giphy.gif" alt="Skate and code" width="300"/>
-</p>
-
-<p align="center"><i>Skating through challenges and coding my way forward 🚀</i></p>
